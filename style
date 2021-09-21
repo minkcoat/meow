@@ -1,0 +1,16 @@
+    .meow{
+      color:white;
+      text-shadow:
+      1px 1px 2px pink,
+      -1px 1px 2px pink,
+      -1px -1px 2px pink,
+      1px -1px 2px pink;
+    }
+    .meow:hover{
+    /* insert javascript here, steal wobbly text ^_^;;*/
+    }
+
+    h1{
+      font-family:lucida; /*???*/
+      color:
+    }
